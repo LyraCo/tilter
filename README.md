@@ -27,7 +27,14 @@ Tilter can be used on images inside of any container div with a set height and s
 ###Note
 * Any "margin-left" or "left" rule applied to the image in your CSS will be overridden.  If you have any "margin-left" or "left" rules with "!important" applied to the image the plugin won't work.
 
+##To-Do
+* Add styles using JS
+* Clean up functions and variables
+* Make fully responsive
+* Adjust rotation axis with device orientation change
+* Create documentation and examples
 
+It's not at all what I would consider "ready for market", but if you're interested in helping make this really great, or have ideas, please join.
 
 
 ##Acknowledgements
